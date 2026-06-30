@@ -19,3 +19,11 @@ It uses press fit parts and a rail mechanism to allow you to satisfyingly drop e
 <img width="275" height="209" alt="Screenshot 2026-06-30 at 12 37 06 PM" src="https://github.com/user-attachments/assets/7166dc9d-2466-4f2f-9860-4e792c8b28bd" />
 <br></br>
 <img width="320" height="728" alt="Screenshot 2026-06-30 at 12 36 55 PM" src="https://github.com/user-attachments/assets/49d4e6ed-6fc7-45b2-91fb-a946ec9c729a" />
+<br></br>
+<img width="204" height="222" alt="Screenshot 2026-06-30 at 12 51 21 PM" src="https://github.com/user-attachments/assets/c9f87993-fec9-4219-a057-2abb5a8e4feb" />
+<br></br>
+<img width="206" height="236" alt="Screenshot 2026-06-30 at 12 51 13 PM" src="https://github.com/user-attachments/assets/cb55ae0d-8522-42f8-8320-ec8728937728" />
+<br></br>
+<img width="342" height="189" alt="Screenshot 2026-06-30 at 12 51 08 PM" src="https://github.com/user-attachments/assets/4b769d24-fa91-4738-9678-1bfa18074613" />
+<br></br>
+<img width="133" height="317" alt="Screenshot 2026-06-30 at 12 50 59 PM" src="https://github.com/user-attachments/assets/a225c85d-cfec-4427-80cd-ba223f65c404" />
