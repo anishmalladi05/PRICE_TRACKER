@@ -5,6 +5,8 @@ This parametric price tracker allows you to see your goal to a date, price, or a
 
 <h1>Video Assembly:</h1>
 
+<img width="216" height="384" alt="Untitled design" src="https://github.com/user-attachments/assets/aec9a389-fe29-4a80-8264-08331326947f" />
+
 
 <h1>Description:</h1>
 It uses press fit parts and a rail mechanism to allow you to satisfyingly drop each chip into place towards your goal.
