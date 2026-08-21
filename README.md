@@ -1,6 +1,6 @@
 # PRICE_TRACKER
 PARAMETRIC PRICE TRACKER
-This parametric price tracker allows you to see your goal to a date, price, or anything else! Just set how many chips you want and print!
+This parametric price tracker allows you to see your goal to a date, price, or anything else! Just set how many chips you want and print! I made it so I can visualize how close I am to getting my X2D, not just be ambiently aware.
 
 
 <h1>Video Assembly:</h1>
